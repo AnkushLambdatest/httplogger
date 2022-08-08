@@ -3,3 +3,4 @@ version: 1.0.0
 postMerge:
   pattern:
     - "./**/*_test.go"
+#test    
